@@ -5,7 +5,7 @@
 
 Polymer wrapper of [JSON Schema Viewer](https://github.com/jlblcc/json-schema-viewer)
 
-<img src="https://github.com/tony19/json-schema-viewer/blob/master/images/screenshot.png" height="100">
+![screenshot](https://github.com/tony19/json-schema-viewer/blob/master/images/screenshot.png "Screenshot")
 
 ### Usage
 
