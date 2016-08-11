@@ -46,6 +46,6 @@
     "commit": "b9cf8fa27978c5a643bd7aea044cad03b476fac9"
   },
   "_source": "https://github.com/geraintluff/tv4.git",
-  "_target": "^1.2.7",
+  "_target": "~1.2.7",
   "_originalSource": "tv4"
 }

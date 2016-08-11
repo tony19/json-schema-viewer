@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <title>json-schema-viewer demo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
+    <script src="../components/webcomponentsjs/webcomponents-lite.js"></script>
+
+    <link rel="import" href="../components/iron-demo-helpers/demo-pages-shared-styles.html">
+    <link rel="import" href="../components/iron-demo-helpers/demo-snippet.html">
+
+    <link rel="import" href="../json-schema-viewer.html">
+
+    <style is="custom-style" include="demo-pages-shared-styles">
+    </style>
+  </head>
+  <body>
+
+    <div class="vertical-section-container">
+      <h3>Basic json-schema-viewer Demo</h3>
+      <demo-snippet>
+        <template>
+          <json-schema-viewer schema="mdjson-schemas/schema/schema.json"></json-schema-viewer>
+        </template>
+      </demo-snippet>
+    </div>
+
+  </body>
+</html>
