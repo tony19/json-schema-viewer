@@ -5,6 +5,8 @@
 
 Polymer wrapper of [JSON Schema Viewer](https://github.com/jlblcc/json-schema-viewer)
 
+> [Check it live.](https://tony19.github.io/json-schema-viewer/)
+
 ![screenshot](https://github.com/tony19/json-schema-viewer/blob/master/images/screenshot.png "Screenshot")
 
 ### Usage
